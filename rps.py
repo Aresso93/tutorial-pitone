@@ -22,8 +22,8 @@ if player == 1 and computer == 3:
 elif player == 2 and computer == 1:
     print("Hai vinto!")
 elif player == 3 and computer == 2:
-    print("Hai vinto!")
+    print("🤑 Hai vinto!")
 elif player == computer:
     print("Pareggioh")
 else: 
-    print("Hai perso!")
+    print("🍆 Hai perso!")
